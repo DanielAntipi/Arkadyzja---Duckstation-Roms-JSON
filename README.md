@@ -1,2 +1,5 @@
 # Arkadyzja---Duckstation-Roms-JSON
-custom roms json file for arkadyzja
+# HOW TO USE:
+put roms.json in:
+
+arkadyzja_0.0.XX\arkadyzja\emulator\duckstation\tools
